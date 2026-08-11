@@ -1435,7 +1435,7 @@ Capture the following screenshots for documentation.
 
 ## GitHub Repository
 
-
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/GitHub%20repository.png)
 
 ---
 
