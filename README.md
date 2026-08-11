@@ -1417,7 +1417,8 @@ Capture the following screenshots for documentation.
 screenshots/
 01-jenkins-dashboard.png
 ```
-
+#Screenshot1
+![sample image] (Screenshot/Screenshot 2026-08-11 153727.png)
 ---
 
 ## Pipeline Stage View
