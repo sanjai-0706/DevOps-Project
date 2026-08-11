@@ -1413,65 +1413,41 @@ Capture the following screenshots for documentation.
 
 ## Jenkins Dashboard
 
-```
-screenshots/
-01-jenkins-dashboard.png
-```
-#Screenshot1
-![sample image] (Screenshot/Screenshot 2026-08-11 153727.png)
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20160340.png)
 ---
 
 ## Pipeline Stage View
 
-```
-screenshots/
-02-stage-view.png
-```
-
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20160530.png)
 ---
 
 ## Console Output
 
-```
-screenshots/
-03-console-output.png
-```
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20153826.png)
 
 ---
 
 ## Successful Build
 
-```
-screenshots/
-04-build-success.png
-```
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20153727.png)
 
 ---
 
 ## GitHub Repository
 
-```
-screenshots/
-05-github-repository.png
-```
+
 
 ---
 
 ## Apache Tomcat
 
-```
-screenshots/
-06-tomcat-server.png
-```
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20161011.png)
 
 ---
 
 ## Running Application
 
-```
-screenshots/
-07-running-application.png
-```
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20153857.png)
 
 ---
 
