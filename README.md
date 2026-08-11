@@ -1429,7 +1429,7 @@ Capture the following screenshots for documentation.
 
 ## Successful Build
 
-![output image](Screenshot/Apache tomcat.png)
+![output image](https://github.com/sanjai-0706/DevOps-Project/commit/5a8665f1afb3dda33d3b90dc3d8e7a4657ffc7f6)
 
 ---
 
