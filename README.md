@@ -1947,15 +1947,15 @@ Feel free to use and modify this project for learning purposes.
 
 # 👨‍💻 Author
 
-**Suraj Singh R**
+**Sanjai B**
 
 DevOps | AWS | Linux | Docker | Kubernetes | Jenkins | Terraform | Ansible | Python
 
 GitHub:
-(Add your GitHub profile link here)
+(https://github.com/sanjai-0706)
 
 LinkedIn:
-(Add your LinkedIn profile link here)
+(https://www.linkedin.com/in/sanjai-babu0706)
 
 ---
 
