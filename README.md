@@ -1413,23 +1413,23 @@ Capture the following screenshots for documentation.
 
 ## Jenkins Dashboard
 
-![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20160340.png)
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Jenkins%20dashboard.png)
 ---
 
 ## Pipeline Stage View
 
-![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20160530.png)
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Pipeline%20stage%20view.png)
 ---
 
 ## Console Output
 
-![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20153826.png)
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Console%20output.png)
 
 ---
 
 ## Successful Build
 
-![output image](https://github.com/sanjai-0706/DevOps-Project/commit/5a8665f1afb3dda33d3b90dc3d8e7a4657ffc7f6)
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Successful%20build.png)
 
 ---
 
@@ -1441,13 +1441,13 @@ Capture the following screenshots for documentation.
 
 ## Apache Tomcat
 
-![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20161011.png)
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Apache%20tomcat.png)
 
 ---
 
 ## Running Application
 
-![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Screenshot%202026-08-11%20153857.png)
+![output image](https://github.com/sanjai-0706/DevOps-Project/blob/main/Screenshot/Running%20application.png)
 
 ---
 
